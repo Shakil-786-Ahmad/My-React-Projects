@@ -1,0 +1,11 @@
+.grid {
+  max-width: 120rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.6rem;
+}
+
+.card {
+  padding: 2rem;
+  border: 1px solid cornsilk;
+}

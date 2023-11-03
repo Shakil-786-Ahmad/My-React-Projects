@@ -1,0 +1,26 @@
+.channelTable {
+
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.channelTable th {
+    text-align: left;
+}
+
+.channelTable th,
+.channelTable td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+
+.channelTable tr:hover {
+    background-color: #504e4e;
+}
+
+.channelTable th {
+    background-color: rgb(82, 167, 3);
+    padding: 10px 8px 10px 8px;
+}

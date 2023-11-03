@@ -1,0 +1,28 @@
+.card {
+    width: 20vw;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.image {
+    width: 20vw;
+    height: 12vw;
+}
+
+button {
+    position: relative;
+    margin-left: 30%;
+    background-color: rgb(131, 7, 7);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+
+}
+
+button:hover {
+    background-color: rgb(218, 2, 2);
+    color: white;
+}
